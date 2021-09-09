@@ -1,0 +1,18 @@
+<settings version="2">
+    <setting id="simpleMode">1</setting>
+    <setting id="stopAfterClose" default="true">false</setting>
+    <setting id="autoPlayMode" default="true">0</setting>
+    <setting id="enablePlaylist" default="true">false</setting>
+    <setting id="includeWatched" default="true">false</setting>
+    <setting id="playedInARow">15</setting>
+    <setting id="customAutoPlayTime">true</setting>
+    <setting id="autoPlaySeasonTime">30</setting>
+    <setting id="autoPlayTimeXS">60</setting>
+    <setting id="autoPlayTimeS">60</setting>
+    <setting id="autoPlayTimeM">120</setting>
+    <setting id="autoPlayTimeL">120</setting>
+    <setting id="autoPlayTimeXL">120</setting>
+    <setting id="disableNextUp" default="true">false</setting>
+    <setting id="logLevel" default="true">0</setting>
+    <setting id="enableDemoMode" default="true">false</setting>
+</settings>

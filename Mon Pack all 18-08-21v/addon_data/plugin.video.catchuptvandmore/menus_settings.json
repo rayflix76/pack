@@ -1,0 +1,103 @@
+{
+    "live_tv": {
+        "ch_live": {
+            "hidden": true
+        },
+        "uk_live": {
+            "hidden": true
+        },
+        "wo_live": {
+            "hidden": true
+        },
+        "be_live": {
+            "hidden": true
+        },
+        "jp_live": {
+            "hidden": true
+        },
+        "ca_live": {
+            "hidden": true
+        },
+        "us_live": {
+            "hidden": true
+        },
+        "pl_live": {
+            "hidden": true
+        },
+        "es_live": {
+            "hidden": true
+        },
+        "tn_live": {
+            "hidden": true
+        },
+        "it_live": {
+            "hidden": true
+        },
+        "nl_live": {
+            "hidden": true
+        },
+        "cn_live": {
+            "hidden": true
+        },
+        "cm_live": {
+            "hidden": true
+        },
+        "si_live": {
+            "hidden": true
+        },
+        "et_live": {
+            "hidden": true
+        },
+        "ma_live": {
+            "hidden": true
+        }
+    },
+    "replay": {
+        "ch_replay": {
+            "hidden": true
+        },
+        "uk_replay": {
+            "hidden": true
+        },
+        "wo_replay": {
+            "hidden": true
+        },
+        "be_replay": {
+            "hidden": true
+        },
+        "jp_replay": {
+            "hidden": true
+        },
+        "ca_replay": {
+            "hidden": true
+        },
+        "us_replay": {
+            "hidden": true
+        },
+        "tn_replay": {
+            "hidden": true
+        },
+        "it_replay": {
+            "hidden": true
+        },
+        "nl_replay": {
+            "hidden": true
+        }
+    },
+    "websites": {
+        "nationalfff": {
+            "hidden": true
+        },
+        "lesargonautes": {
+            "hidden": true
+        },
+        "nfb": {
+            "hidden": true
+        }
+    },
+    "root": {
+        "websites": {
+            "hidden": true
+        }
+    }
+}

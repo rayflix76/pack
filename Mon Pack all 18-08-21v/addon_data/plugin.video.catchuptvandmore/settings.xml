@@ -1,0 +1,43 @@
+<settings version="2">
+    <setting id="auto_run" default="true">false</setting>
+    <setting id="quality" default="true">BEST</setting>
+    <setting id="tv_guide">false</setting>
+    <setting id="active_subtitle" default="true">false</setting>
+    <setting id="arte.language" default="true">FR</setting>
+    <setting id="euronews.language" default="true">FR</setting>
+    <setting id="france24.language" default="true">FR</setting>
+    <setting id="dw.language" default="true">EN</setting>
+    <setting id="qvc.language" default="true">UK</setting>
+    <setting id="nhkworld.language" default="true">Outside Japan</setting>
+    <setting id="cgtn.language" default="true">FR</setting>
+    <setting id="rt.language" default="true">FR</setting>
+    <setting id="france3regions.language" default="true">Alpes</setting>
+    <setting id="la_1ere.language" default="true">Guadeloupe</setting>
+    <setting id="realmadridtv.language" default="true">ES</setting>
+    <setting id="tvp3.language" default="true">Białystok</setting>
+    <setting id="icitele.language" default="true">Montréal</setting>
+    <setting id="cbc.language" default="true">Ottawa</setting>
+    <setting id="dl_folder" default="true" />
+    <setting id="dl_quality" default="true">Highest available</setting>
+    <setting id="dl_background" default="true">false</setting>
+    <setting id="dl_item_filename" default="true">false</setting>
+    <setting id="nrj.login"></setting>
+    <setting id="nrj.password"></setting>
+    <setting id="6play.login"></setting>
+    <setting id="6play.password"></setting>
+    <setting id="abweb.login" default="true" />
+    <setting id="abweb.password" default="true" />
+    <setting id="vrt.login" default="true" />
+    <setting id="vrt.password" default="true" />
+    <setting id="rtlplaybe.login" default="true" />
+    <setting id="rtlplaybe.password" default="true" />
+    <setting id="uktvplay.login" default="true" />
+    <setting id="uktvplay.password" default="true" />
+    <setting id="iptv.enabled">true</setting>
+    <setting id="iptv.channels_uri" default="true">plugin://plugin.video.catchuptvandmore/resources/lib/iptvmanager/channels/</setting>
+    <setting id="iptv.epg_uri" default="true">plugin://plugin.video.catchuptvandmore/resources/lib/iptvmanager/epg/</setting>
+    <setting id="log_pop_up">true</setting>
+    <setting id="show_hidden_items_information">false</setting>
+    <setting id="show_live_tv_m3u_info">false</setting>
+    <setting id="header_x-forwarded-for" default="true" />
+</settings>
