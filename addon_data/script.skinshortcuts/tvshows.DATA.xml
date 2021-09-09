@@ -1,0 +1,50 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Recherche</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.vstream/?site=pastebin&amp;function=showMenu&amp;title=4+Series+%28Rayflix%29&amp;pasteID=19",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Les Dossiers</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/viewmode.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.vstream/?site=pastebin&amp;function=showGroupes&amp;title=S%C3%A9ries+%28Listes%29&amp;siteUrl=https%3A%2F%2Fpastebin.com%2Fraw%2F%26numPage%3D1%26sMedia%3Dserie%26pasteID%3D19&amp;sFav=showGroupes",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Par Genres</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/crosshair.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.vstream/?site=pastebin&amp;function=showGenres&amp;title=S%C3%A9ries+%28Genres%29&amp;siteUrl=https%3A%2F%2Fpastebin.com%2Fraw%2F%26numPage%3D1%26sMedia%3Dserie%26pasteID%3D19&amp;sFav=showGenres",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Par diffuseurs</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/netflix.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.vstream/?site=pastebin&amp;function=showNetwork&amp;title=S%C3%A9ries+%28Par+diffuseurs%29&amp;siteUrl=https%3A%2F%2Fpastebin.com%2Fraw%2F%26numPage%3D1%26sMedia%3Dserie%26pasteID%3D19&amp;sFav=showNetwork",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR coral]Mettre à jour tous les contenus[/COLOR]</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/download.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.vstream/?site=pastebin&amp;function=refreshAllPaste&amp;title=%5BCOLOR+coral%5DMettre+%C3%A0+jour+tous+les+contenus%5B%2FCOLOR%5D&amp;sFav=refreshAllPaste",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries TV Local</label>
+		<label2>Vidéos</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/artist.png</thumb>
+		<action>ActivateWindow(Videos,"library://video/tvshows/",return)</action>
+	</shortcut>
+</shortcuts>
